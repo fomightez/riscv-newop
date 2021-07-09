@@ -14,6 +14,8 @@
 
 **Run without installation by clicking on `launch` badge above.**
 
+See below if running local.
+
 
 ----------------------------------
 
